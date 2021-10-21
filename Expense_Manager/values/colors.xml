@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="application_background">#ff23729a</color>
+    <color name="white">#fff6fdff</color>
+    <color name="red">#B50012</color>
+    <color name="bright_red">#ffab271b</color>
+    <color name="dark_red">#ffb51139</color>
+    <color name="grey">#ff8b8b8b</color>
+    <color name="dark_grey">#ff717171</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#FFFFFF</color>
+
+    <color name="light_blue">#ff42959a</color>
+    <color name="dark_blue">#ff23729a</color>
+    <drawable name="transparent_background">#00000000</drawable>
+</resources>
