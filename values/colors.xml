@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#C39074</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#0C5A53</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="application_background">#ff23729a</color>
+    <color name="white">#fff6fdff</color>
+    <color name="red">#B50012</color>
+    <color name="bright_red">#ffab271b</color>
+    <color name="dark_red">#ffb51139</color>
+    <color name="grey">#ff8b8b8b</color>
+    <color name="dark_grey">#ff717171</color>
+    <color name="black">#ff000000</color>
+    <color name="transparent">#FFFFFF</color>
 
-    <color name="toolbar_color">#FF0C5A53</color>
-
-    <color name="nav_header">#FF018786</color>
+    <color name="light_blue">#ff42959a</color>
+    <color name="dark_blue">#ff23729a</color>
+    <drawable name="transparent_background">#00000000</drawable>
 </resources>
